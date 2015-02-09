@@ -1,4 +1,6 @@
-	This script will trash all gmail emails with the labels specified, after the number of days defined in the listOfDays array. Check out the tutorial and script.
+	This script will trash all gmail emails with the labels specified, after the number of days defined in the listOfDays array.
+
+	Check out the tutorial and script.
 
   For more details, refer to http://labnol.org/?p=27605
 
