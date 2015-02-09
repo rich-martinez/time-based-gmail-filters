@@ -1,6 +1,4 @@
-/*
-
-  This script will trash all gmail emails with the labels specified, after the number of days defined in the listOfDays array. Check out the tutorial and script.
+	This script will trash all gmail emails with the labels specified, after the number of days defined in the listOfDays array. Check out the tutorial and script.
 
   For more details, refer to http://labnol.org/?p=27605
 
@@ -22,5 +20,3 @@
   get purged after 'n' days (in listOfDays). The script will run by itself every day at 01:00 hours.
   
   Also, you may go to Run -> Uninstall to stop the purging script anytime.
- 
-  */
