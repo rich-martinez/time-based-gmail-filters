@@ -69,7 +69,7 @@ var purgeGmail = function(currentLabel, currentDay) {
     var threads = GmailApp.search(query, 0, 100);
 
     if (threads.length == 100) {
-      purgeEachLabel();
+      purgeGmail(currentLabel, currentDay);
     }
 
     for (var i = 0; i < threads.length; i++) {
