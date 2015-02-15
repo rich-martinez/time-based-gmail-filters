@@ -12,7 +12,7 @@ Step 1. Create gmail filter(s) to apply label(s) to certain emails in the format
 
 Step 2. Add gmail-time-based-trash-filter.js to your Google Drive and open script, or go [here](https://script.google.com/d/1UUaas3vakCEHCclNkp3-RqixWsOTT-Rz6SOZpn0TqO5o_urPL8vtTU7u/edit?newcopy=true).
 
-Step 3. Update the values of the following fields:
+Step 3. Update the values of the following fields (and save the script after updating):
 
     var labelTemplate = "NAMEOFLABEL";
     //this field can have any amount of comma separated values
